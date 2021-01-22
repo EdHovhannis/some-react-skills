@@ -1,0 +1,15 @@
+[
+    {"name":"Duration", "id": "easy", "disabled":true, "selected": true},
+    {"name":"15m easy", "id": "easy", "disabled":false, "selected": false},
+    {"name":"30m easy", "id": "easy", "disabled":false, "selected": false},
+    {"name":"45m easy", "id": "easy", "disabled":false, "selected": false},
+    {"name":"60m easy", "id": "easy", "disabled":false, "selected": false},
+    {"name":"1h easy", "id": "medium", "disabled":false, "selected": false},
+    {"name":"1.5h medium", "id": "medium", "disabled":false, "selected": false},
+    {"name":"2h medium", "id": "medium", "disabled":false, "selected": false},
+    {"name":"2.5h hard", "id": "hard", "disabled":false, "selected": false},
+    {"name":"3h hard", "id": "hard", "disabled":false, "selected": false},
+    {"name":"3.5h hard", "id": "hard", "disabled":false, "selected": false},
+    {"name":"4h heavy", "id": "heavy", "disabled":false, "selected": false},
+    {"name":"5h heavy", "id": "heavy", "disabled":false, "selected": false}
+]

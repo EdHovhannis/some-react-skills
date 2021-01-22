@@ -1,0 +1,44 @@
+.CardioItems {
+  position: relative;
+  background-color: #70a7da;
+  padding: 10px 2rem;
+  width: 50%;
+  margin: auto;
+  margin-top: 1rem;
+  border-radius: 5px;
+}
+.CardioItems div {
+  margin-left: 10px;
+  margin-top: 2px;
+  padding: 3px;
+  width: 75%;
+}
+
+.CardioItems i {
+  position: absolute;
+  right: 1rem;
+  top: 20%;
+  font-size: 14pt;
+}
+.CardioItems i:first-child {
+  margin-right: 1.5rem;
+}
+.CardioItems i:first-child:hover {
+  color: #b81b1b;
+  cursor: pointer;
+}
+.CardioItems i:hover {
+  color: #00095a;
+  cursor: pointer;
+}
+
+.titletext b {
+  font-family: "Courier New", Courier, monospace;
+}
+.titletext span {
+  font-family: "Courier New", Courier, monospace;
+}
+.titletext em {
+  opacity: 0.7;
+  font-family: "Courier New", Courier, monospace;
+}

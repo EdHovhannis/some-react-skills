@@ -1,0 +1,19 @@
+[
+    {"name": "Muscles", "disabled": true, "selected": true},
+    {"name": "Anterior deltoid", "disabled": false, "selected": false},
+    {"name": "Biceps brachii", "disabled": false, "selected": false },
+    {"name": "Biceps femoris", "disabled": false, "selected": false},
+    {"name": "Brachialis", "disabled": false, "selected": false},
+    {"name": "Erector spinae", "disabled": false, "selected": false},
+    {"name": "Gastrocnemius", "disabled": false, "selected": false},
+    {"name": "Gluteus maximus", "disabled": false, "selected": false},
+    {"name": "Latissimus dorsi", "disabled": false, "selected": false},
+    {"name": "Obliquus externus abdominis", "disabled": false, "selected": false},
+    {"name": "Pectoralis major", "disabled": false, "selected": false},
+    {"name": "Quadriceps femoris", "disabled": false, "selected": false},
+    {"name": "Rectus abdominis", "disabled": false, "selected": false},
+    {"name": "Serratus anterior", "disabled": false, "selected": false},
+    {"name": "Soleus", "disabled": false, "selected": false},
+    {"name": "Trapezius", "disabled": false, "selected": false},
+    {"name": "Triceps brachii", "disabled": false, "selected": false}
+]

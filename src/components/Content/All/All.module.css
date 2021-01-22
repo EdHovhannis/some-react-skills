@@ -1,0 +1,38 @@
+.All {
+    width: 90%;
+    margin: auto;
+    margin-top: 2rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid #333;
+  padding: 3px;
+}
+thead,
+tfoot {
+  background: #f0f0f0;
+}
+caption {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: 14pt;
+    margin-bottom: 1rem;
+}
+.search {
+  outline: none;
+  border: 1px solid #000000;
+  padding: 3px;
+}
+select {
+  outline: none;
+  border: 1px solid #000000;
+  padding: 3px;
+  margin-left: 3px;
+}
+.search:focus {
+  border: 1px solid #2baee2;
+}

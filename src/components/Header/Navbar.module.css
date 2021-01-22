@@ -1,0 +1,28 @@
+.Navbar {
+    display: flex;
+    align-items: center;
+    background-color: #70a7da;
+    border-radius: 3px;
+}
+.Navbar a:first-child {
+    margin-left: 2rem;
+}
+.Navbar a {
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+    color: #000000;
+    border: 3px solid transparent;
+    opacity: 0.6;
+}
+.Navbar a:hover {
+    transition: all ease 0.2s;
+    border-top: 3px solid #474747;
+    border-bottom: 3px solid #474747;
+    opacity: 0.8;
+}
+.Navbar a.activeLink {
+    border-top: 3px solid #000000;
+    border-bottom: 3px solid #000000;
+    opacity: 1;
+}
